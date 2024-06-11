@@ -1,0 +1,32 @@
+<RCC>
+  <qresource>
+    <file>icons/Screenshot from 2024-06-11 22-40-10.png</file>
+    <file>icons/logout_24dp_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>icons/Screenshot 2024-06-11 at 22-34-47 @dreamycat_996 • Instagram photos and videos.png</file>
+    <file>icons/add1.png</file>
+    <file>icons/home_24dp_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>icons/logout_24dp_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>icons/add1.png</file>
+    <file>icons/add_24dp_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>icons/check1.png</file>
+    <file>icons/check_24dp_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>icons/content_paste_1.png</file>
+    <file>icons/content_paste_24dp.png</file>
+    <file>icons/delete_24dp_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>icons/delete_24dp_FILL0_wght400_GRAD0_opsz24(1).png</file>
+    <file>icons/filter_vintage_1.png</file>
+    <file>icons/filter_vintage_24dp.png</file>
+    <file>icons/menu_24dp_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>icons/price_change_1.png</file>
+    <file>icons/price_change_24dp.png</file>
+    <file>icons/search_24dp_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>icons/search_black.png</file>
+    <file>icons/supervisor_account_1.png</file>
+    <file>icons/supervisor_account_24dp.png</file>
+    <file>icons/swap_vert_24dp_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>icons/update_24dp_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>icons/update_24dp_FILL0_wght400_GRAD0_opsz24(1).png</file>
+    <file>icons/visibility_24dp_FILL0_wght400_GRAD0_opsz24.png</file>
+    <file>icons/visibility_24dp_FILL0_wght400_GRAD0_opsz24(1).png</file>
+  </qresource>
+</RCC>
